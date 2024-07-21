@@ -1,0 +1,10 @@
+D:\Documents\Visual Studio 2013\Projects\MultiCamerasGrab\MultiCamerasGrab\bin\Debug\IKapC.NET.dll
+D:\Documents\Visual Studio 2013\Projects\MultiCamerasGrab\MultiCamerasGrab\obj\Debug\MultiCamerasGrab.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2013\Projects\MultiCamerasGrab\MultiCamerasGrab\obj\Debug\MultiCamerasGrab.Properties.Resources.resources
+D:\Documents\Visual Studio 2013\Projects\MultiCamerasGrab\MultiCamerasGrab\obj\Debug\MultiCamerasGrab.MulitpleGrabDisplay.resources
+D:\Documents\Visual Studio 2013\Projects\MultiCamerasGrab\MultiCamerasGrab\bin\Debug\MultiCamerasGrab.exe.config
+D:\Documents\Visual Studio 2013\Projects\MultiCamerasGrab\MultiCamerasGrab\obj\Debug\MultiCamerasGrab.exe
+D:\Documents\Visual Studio 2013\Projects\MultiCamerasGrab\MultiCamerasGrab\obj\Debug\MultiCamerasGrab.pdb
+D:\Documents\Visual Studio 2013\Projects\MultiCamerasGrab\MultiCamerasGrab\bin\Debug\MultiCamerasGrab.exe
+D:\Documents\Visual Studio 2013\Projects\MultiCamerasGrab\MultiCamerasGrab\bin\Debug\MultiCamerasGrab.pdb
+D:\Documents\Visual Studio 2013\Projects\MultiCamerasGrab\MultiCamerasGrab\obj\Debug\MultiCamerasGrab.csprojResolveAssemblyReference.cache

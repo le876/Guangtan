@@ -1,0 +1,266 @@
+D:\Documents\Visual Studio 2013\Projects\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.exe.config
+D:\Documents\Visual Studio 2013\Projects\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.exe
+D:\Documents\Visual Studio 2013\Projects\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.pdb
+D:\Documents\Visual Studio 2013\Projects\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\IKapC.NET.dll
+D:\Documents\Visual Studio 2013\Projects\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.MulitpleGrabDisplay.resources
+D:\Documents\Visual Studio 2013\Projects\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.Properties.Resources.resources
+D:\Documents\Visual Studio 2013\Projects\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2013\Projects\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.exe
+D:\Documents\Visual Studio 2013\Projects\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.pdb
+D:\Documents\Visual Studio 2013\Projects\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csprojResolveAssemblyReference.cache
+C:\Users\86138\Desktop\CShape\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.exe.config
+C:\Users\86138\Desktop\CShape\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.exe
+C:\Users\86138\Desktop\CShape\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.pdb
+C:\Users\86138\Desktop\CShape\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csproj.AssemblyReference.cache
+C:\Users\86138\Desktop\CShape\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csproj.SuggestedBindingRedirects.cache
+C:\Users\86138\Desktop\CShape\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.MulitpleGrabDisplay.resources
+C:\Users\86138\Desktop\CShape\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.Properties.Resources.resources
+C:\Users\86138\Desktop\CShape\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csproj.GenerateResource.cache
+C:\Users\86138\Desktop\CShape\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csproj.CoreCompileInputs.cache
+C:\Users\86138\Desktop\CShape\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csproj.CopyComplete
+C:\Users\86138\Desktop\CShape\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.exe
+C:\Users\86138\Desktop\CShape\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.pdb
+G:\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.exe.config
+G:\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.exe
+G:\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.pdb
+G:\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csprojResolveAssemblyReference.cache
+G:\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.MulitpleGrabDisplay.resources
+G:\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.Properties.Resources.resources
+G:\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csproj.GenerateResource.Cache
+G:\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.exe
+G:\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.pdb
+C:\Users\86138\Desktop\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csproj.AssemblyReference.cache
+C:\Users\86138\Desktop\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csproj.SuggestedBindingRedirects.cache
+C:\Users\86138\Desktop\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.MulitpleGrabDisplay.resources
+C:\Users\86138\Desktop\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.Properties.Resources.resources
+C:\Users\86138\Desktop\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csproj.GenerateResource.cache
+C:\Users\86138\Desktop\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csproj.CoreCompileInputs.cache
+C:\Users\86138\Desktop\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.exe
+C:\Users\86138\Desktop\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.pdb
+C:\Users\86138\Desktop\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.exe.config
+C:\Users\86138\Desktop\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.exe
+C:\Users\86138\Desktop\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.pdb
+C:\Users\86138\Desktop\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csproj.CopyComplete
+C:\Users\pc\Desktop\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.exe.config
+C:\Users\pc\Desktop\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.exe
+C:\Users\pc\Desktop\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.pdb
+C:\Users\pc\Desktop\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.exe
+C:\Users\pc\Desktop\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.pdb
+C:\Users\pc\Desktop\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.MulitpleGrabDisplay.resources
+C:\Users\pc\Desktop\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.Properties.Resources.resources
+C:\Users\pc\Desktop\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\develop6\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.exe.config
+C:\Users\pc\Desktop\develop6\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.exe
+C:\Users\pc\Desktop\develop6\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.pdb
+C:\Users\pc\Desktop\develop6\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.exe
+C:\Users\pc\Desktop\develop6\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.pdb
+C:\Users\pc\Desktop\develop6\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\develop6\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.MulitpleGrabDisplay.resources
+C:\Users\pc\Desktop\develop6\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.Properties.Resources.resources
+C:\Users\pc\Desktop\develop6\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csproj.GenerateResource.Cache
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\develop10\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.exe.config
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\develop10\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.exe
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\develop10\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.pdb
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\develop10\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csproj.AssemblyReference.cache
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\develop10\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csproj.SuggestedBindingRedirects.cache
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\develop10\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.MulitpleGrabDisplay.resources
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\develop10\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.Properties.Resources.resources
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\develop10\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csproj.GenerateResource.cache
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\develop10\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csproj.CoreCompileInputs.cache
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\develop10\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csproj.CopyComplete
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\develop10\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.exe
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\develop10\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.pdb
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.exe.config
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.exe
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.pdb
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csproj.AssemblyReference.cache
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csproj.SuggestedBindingRedirects.cache
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.MulitpleGrabDisplay.resources
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.Properties.Resources.resources
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csproj.GenerateResource.cache
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csproj.CoreCompileInputs.cache
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csproj.CopyComplete
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.exe
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.pdb
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\onnxruntime.dll
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\onnxruntime_providers_shared.dll
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\Microsoft.ML.OnnxRuntime.dll
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Buffers.dll
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Drawing.Common.dll
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Memory.dll
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\Yolov5Net.Scorer.dll
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\Microsoft.ML.OnnxRuntime.pdb
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Buffers.xml
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Memory.xml
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\onnxruntime.dll
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\onnxruntime_providers_shared.dll
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.exe.config
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.exe
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.pdb
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\Microsoft.ML.OnnxRuntime.dll
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Buffers.dll
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Drawing.Common.dll
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Memory.dll
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\Yolov5Net.Scorer.dll
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\Microsoft.ML.OnnxRuntime.pdb
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Buffers.xml
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Memory.xml
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csproj.AssemblyReference.cache
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csproj.SuggestedBindingRedirects.cache
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.MulitpleGrabDisplay.resources
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.Properties.Resources.resources
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csproj.GenerateResource.cache
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csproj.CoreCompileInputs.cache
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csproj.CopyComplete
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.exe
+C:\Users\86138\Desktop\2022暑期科研助理\multicamera\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.pdb
+C:\Users\pc\Desktop\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.exe.config
+C:\Users\pc\Desktop\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.exe
+C:\Users\pc\Desktop\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.pdb
+C:\Users\pc\Desktop\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.MulitpleGrabDisplay.resources
+C:\Users\pc\Desktop\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.Properties.Resources.resources
+C:\Users\pc\Desktop\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\onnxruntime.dll
+C:\Users\pc\Desktop\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\onnxruntime_providers_shared.dll
+C:\Users\pc\Desktop\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.exe
+C:\Users\pc\Desktop\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.pdb
+C:\Users\pc\Desktop\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\Microsoft.ML.OnnxRuntime.dll
+C:\Users\pc\Desktop\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Buffers.dll
+C:\Users\pc\Desktop\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Drawing.Common.dll
+C:\Users\pc\Desktop\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Memory.dll
+C:\Users\pc\Desktop\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\pc\Desktop\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pc\Desktop\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\Yolov5Net.Scorer.dll
+C:\Users\pc\Desktop\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\Microsoft.ML.OnnxRuntime.pdb
+C:\Users\pc\Desktop\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Buffers.xml
+C:\Users\pc\Desktop\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Memory.xml
+C:\Users\pc\Desktop\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\pc\Desktop\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\onnxruntime.dll
+D:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\onnxruntime_providers_shared.dll
+D:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.exe.config
+D:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.exe
+D:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.pdb
+D:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\Microsoft.ML.OnnxRuntime.dll
+D:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Buffers.dll
+D:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Drawing.Common.dll
+D:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Memory.dll
+D:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Numerics.Vectors.dll
+D:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\Yolov5Net.Scorer.dll
+D:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\Microsoft.ML.OnnxRuntime.pdb
+D:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Buffers.xml
+D:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Memory.xml
+D:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Numerics.Vectors.xml
+D:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csproj.AssemblyReference.cache
+D:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csproj.SuggestedBindingRedirects.cache
+D:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.MulitpleGrabDisplay.resources
+D:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.Properties.Resources.resources
+D:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csproj.GenerateResource.cache
+D:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csproj.CoreCompileInputs.cache
+D:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csproj.CopyComplete
+D:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.exe
+D:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.pdb
+H:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.exe.config
+H:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.exe
+H:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.pdb
+H:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\onnxruntime.dll
+H:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\onnxruntime_providers_shared.dll
+H:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.exe
+H:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.pdb
+H:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\Microsoft.ML.OnnxRuntime.dll
+H:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Buffers.dll
+H:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Drawing.Common.dll
+H:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Memory.dll
+H:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Numerics.Vectors.dll
+H:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\Yolov5Net.Scorer.dll
+H:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\Microsoft.ML.OnnxRuntime.pdb
+H:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Buffers.xml
+H:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Memory.xml
+H:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Numerics.Vectors.xml
+H:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csprojResolveAssemblyReference.cache
+H:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.MulitpleGrabDisplay.resources
+H:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.Properties.Resources.resources
+H:\develop14+4相机\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\线阵四相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.exe.config
+C:\Users\pc\Desktop\线阵四相机\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.exe
+C:\Users\pc\Desktop\线阵四相机\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.pdb
+C:\Users\pc\Desktop\线阵四相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\onnxruntime.dll
+C:\Users\pc\Desktop\线阵四相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\onnxruntime_providers_shared.dll
+C:\Users\pc\Desktop\线阵四相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.exe
+C:\Users\pc\Desktop\线阵四相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.pdb
+C:\Users\pc\Desktop\线阵四相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\Microsoft.ML.OnnxRuntime.dll
+C:\Users\pc\Desktop\线阵四相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Buffers.dll
+C:\Users\pc\Desktop\线阵四相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Drawing.Common.dll
+C:\Users\pc\Desktop\线阵四相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Memory.dll
+C:\Users\pc\Desktop\线阵四相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\pc\Desktop\线阵四相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pc\Desktop\线阵四相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\Yolov5Net.Scorer.dll
+C:\Users\pc\Desktop\线阵四相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\Microsoft.ML.OnnxRuntime.pdb
+C:\Users\pc\Desktop\线阵四相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Buffers.xml
+C:\Users\pc\Desktop\线阵四相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Memory.xml
+C:\Users\pc\Desktop\线阵四相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\pc\Desktop\线阵四相机\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pc\Desktop\线阵四相机\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\线阵四相机\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.MulitpleGrabDisplay.resources
+C:\Users\pc\Desktop\线阵四相机\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.Properties.Resources.resources
+C:\Users\pc\Desktop\线阵四相机\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.exe.config
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.exe
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.pdb
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\onnxruntime.dll
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\onnxruntime_providers_shared.dll
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.exe
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.pdb
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\Microsoft.ML.OnnxRuntime.dll
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Buffers.dll
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Drawing.Common.dll
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Memory.dll
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\Yolov5Net.Scorer.dll
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\Microsoft.ML.OnnxRuntime.pdb
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Buffers.xml
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Memory.xml
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab\MultiCamerasGrab\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.MulitpleGrabDisplay.resources
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.Properties.Resources.resources
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab - 副本\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.exe.config
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab - 副本\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.exe
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab - 副本\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.pdb
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab - 副本\MultiCamerasGrab\bin\x64\Debug\onnxruntime.dll
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab - 副本\MultiCamerasGrab\bin\x64\Debug\onnxruntime_providers_shared.dll
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab - 副本\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.exe
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab - 副本\MultiCamerasGrab\bin\x64\Debug\MultiCamerasGrab.pdb
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab - 副本\MultiCamerasGrab\bin\x64\Debug\Microsoft.ML.OnnxRuntime.dll
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab - 副本\MultiCamerasGrab\bin\x64\Debug\System.Buffers.dll
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab - 副本\MultiCamerasGrab\bin\x64\Debug\System.Drawing.Common.dll
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab - 副本\MultiCamerasGrab\bin\x64\Debug\System.Memory.dll
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab - 副本\MultiCamerasGrab\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab - 副本\MultiCamerasGrab\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab - 副本\MultiCamerasGrab\bin\x64\Debug\Yolov5Net.Scorer.dll
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab - 副本\MultiCamerasGrab\bin\x64\Debug\Microsoft.ML.OnnxRuntime.pdb
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab - 副本\MultiCamerasGrab\bin\x64\Debug\System.Buffers.xml
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab - 副本\MultiCamerasGrab\bin\x64\Debug\System.Memory.xml
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab - 副本\MultiCamerasGrab\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab - 副本\MultiCamerasGrab\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab - 副本\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab - 副本\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.MulitpleGrabDisplay.resources
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab - 副本\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.Properties.Resources.resources
+C:\Users\pc\Desktop\线阵四相机\www\MultiCamerasGrab - 副本\MultiCamerasGrab\obj\x64\Debug\MultiCamerasGrab.csproj.GenerateResource.Cache

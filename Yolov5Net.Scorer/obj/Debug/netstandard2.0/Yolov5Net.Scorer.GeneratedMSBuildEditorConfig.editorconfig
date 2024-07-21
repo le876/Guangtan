@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Yolov5Net.Scorer
+build_property.ProjectDir = C:\Users\86138\Desktop\yolov5-net-master\src\Yolov5Net.Scorer\

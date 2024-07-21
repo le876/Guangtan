@@ -1,0 +1,10 @@
+C:\Users\86138\Desktop\yolov5-net-master\src\Yolov5Net.Scorer\bin\Debug\netstandard2.0\Yolov5Net.Scorer.deps.json
+C:\Users\86138\Desktop\yolov5-net-master\src\Yolov5Net.Scorer\bin\Debug\netstandard2.0\Yolov5Net.Scorer.dll
+C:\Users\86138\Desktop\yolov5-net-master\src\Yolov5Net.Scorer\bin\Debug\netstandard2.0\Yolov5Net.Scorer.pdb
+C:\Users\86138\Desktop\yolov5-net-master\src\Yolov5Net.Scorer\obj\Debug\netstandard2.0\Yolov5Net.Scorer.csproj.AssemblyReference.cache
+C:\Users\86138\Desktop\yolov5-net-master\src\Yolov5Net.Scorer\obj\Debug\netstandard2.0\Yolov5Net.Scorer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\86138\Desktop\yolov5-net-master\src\Yolov5Net.Scorer\obj\Debug\netstandard2.0\Yolov5Net.Scorer.AssemblyInfoInputs.cache
+C:\Users\86138\Desktop\yolov5-net-master\src\Yolov5Net.Scorer\obj\Debug\netstandard2.0\Yolov5Net.Scorer.AssemblyInfo.cs
+C:\Users\86138\Desktop\yolov5-net-master\src\Yolov5Net.Scorer\obj\Debug\netstandard2.0\Yolov5Net.Scorer.csproj.CoreCompileInputs.cache
+C:\Users\86138\Desktop\yolov5-net-master\src\Yolov5Net.Scorer\obj\Debug\netstandard2.0\Yolov5Net.Scorer.dll
+C:\Users\86138\Desktop\yolov5-net-master\src\Yolov5Net.Scorer\obj\Debug\netstandard2.0\Yolov5Net.Scorer.pdb

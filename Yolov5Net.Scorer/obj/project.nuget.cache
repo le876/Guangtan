@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "WewLEBI8eU6NPAK7ogJQl99Iq99jZX0nYy0eO15STk+S+VCXZz6e0TVneDnHJMiqpz6UYvhOC4W7qkD7TkF/qA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\86138\\Desktop\\yolov5-net-master\\src\\Yolov5Net.Scorer\\Yolov5Net.Scorer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\86138\\.nuget\\packages\\microsoft.ml.onnxruntime.managed\\1.9.0\\microsoft.ml.onnxruntime.managed.1.9.0.nupkg.sha512",
+    "C:\\Users\\86138\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\86138\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\86138\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\86138\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\86138\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\86138\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\86138\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
